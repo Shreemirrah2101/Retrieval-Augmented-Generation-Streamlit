@@ -1,0 +1,6 @@
+torch 
+sentence-transformers
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index
+streamlit
